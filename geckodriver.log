@@ -1,0 +1,6 @@
+1526413485706	geckodriver	INFO	Listening on 127.0.0.1:44627
+1526413733519	geckodriver	INFO	Listening on 127.0.0.1:56691
+1526416027543	geckodriver	INFO	Listening on 127.0.0.1:55549
+1526416028545	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.NioJyliTQEqj
+1526416028546	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox/
+1526416818745	geckodriver	INFO	Listening on 127.0.0.1:58421
